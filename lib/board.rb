@@ -1,1 +1,1 @@
-puts board
+local variable = "board"
