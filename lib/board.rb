@@ -1,1 +1,1 @@
-local variable = "board"
+local_variable = "board"
